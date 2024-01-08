@@ -3,3 +3,7 @@
 1. Hero page main text animation
 2. Hero page image animation
 3. Common code refactoring in javascript
+
+-- Version 0.0.2 : 0108
+
+- About image
